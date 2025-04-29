@@ -1,8 +1,8 @@
 # trimill
 
-i no longer use github. view my projects on my Forgejo:
+i no longer use github. view my projects on my website:
 
-https://g.trimill.xyz/trimill/
+https://g.trimill.xyz/
 
 
 
